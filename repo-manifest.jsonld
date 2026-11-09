@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/izhangzhihao/intellij-rainbow-brackets/commit/c7bdbda6ce7baa7720eba436d528335b73a61e5a",
       "git:hexsha": "c7bdbda6ce7baa7720eba436d528335b73a61e5a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-09T17:50:07.461201+00:00"
     },
     {
       "@id": "https://repolex.ai/r/izhangzhihao/intellij-rainbow-brackets/commit/9a7640df45d30142bac85c767c5aeb686214e753",
